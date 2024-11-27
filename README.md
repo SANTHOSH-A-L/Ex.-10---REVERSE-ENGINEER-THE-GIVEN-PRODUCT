@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![Screenshot (22)](https://github.com/user-attachments/assets/1b090288-0f6a-4b9d-9729-085134b80944)
 
 
-### Name:
-### Register Number:
+
+### Name:Santhosh A L
+### Register Number:24900598
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
