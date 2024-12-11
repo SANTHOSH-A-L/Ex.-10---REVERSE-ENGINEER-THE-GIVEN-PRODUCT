@@ -33,9 +33,7 @@
 ## Input:
 
 ### Output:
-![Screenshot (22)](https://github.com/user-attachments/assets/1b090288-0f6a-4b9d-9729-085134b80944)
-
-
+![Screenshot (24)](https://github.com/user-attachments/assets/cf5f89ba-5468-48f2-82eb-d889e486ea57)
 
 ### Name:Santhosh A L
 ### Register Number:24900598
